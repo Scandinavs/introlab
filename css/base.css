@@ -58,7 +58,7 @@ ul li {margin-bottom: 5px;}
 /*
 * Header 
 */
-header {width: 100%; height: 400px; float: left; clear: both; margin: 0; padding: 0; background: url(../images/misc/banner.jpg) no-repeat center -1px fixed; position: relative; z-index: 1;} 
+header {width: 100%; height: 400px; float: left; clear: both; margin: 0; padding: 0; background: url(../images/misc/banner.jpg) no-repeat center -1px fixed; position: relative; z-index: 1;}
 header nav {width: 100%; float: left; margin: 0; padding: 25px 0 20px; background: #fff; border-top: 2px solid #FF6A00; position: relative; z-index: 1;
 	box-shadow: 0 1px 2px 0 rgba(0,0,0,.3);
 	-moz-box-shadow: 0 1px 2px 0 rgba(0,0,0,.3);
@@ -216,6 +216,15 @@ footer .social a {float: left; margin-right: 10px;}
 footer .social a img {width: 35px; opacity: 0.4;}
 footer .social a:hover img {opacity: 1;}
 
+a.reverseCall {
+    font-size: 15px;
+    text-transform: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+}
 
 
 
@@ -263,12 +272,3 @@ footer .social a:hover img {opacity: 1;}
 
 
 }
-
-
-
-
-
-
-
-
-
