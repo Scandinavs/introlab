@@ -130,19 +130,27 @@ ul.mainMenu li a:hover {color: #FF6A00;
 * Form, input, label, textarea
 */
 .form h3, .form p {text-align: center;}
-form {width: 500px; margin: 30px auto; text-align: center;}
-input, label, textarea {width: 500px; float: left; margin: 0; padding: 0;}
+form {margin: 30px auto; text-align: center;}
+input, label, textarea {float: left; margin: 0; padding: 0;}
 label {font-size: 12px; text-transform: uppercase; font-weight: 300; margin-bottom: 7px;}
 input {margin-bottom: 20px; padding: 7px 0; text-align: center;}
 input, textarea {border: 1px solid #ddd; outline: none;}
 input:focus, textarea:focus {border-color: #b6b6b6;}
-textarea {width: 480px; padding: 7px 10px;}
+textarea {padding: 7px 10px;}
 input.error, textarea.error {border-color: #cc4847;}
 
-
-
-input[type='submit'] {width: 502px; padding: 12px 0; font-size: 16px; border: none; background: #eee; color: #aaa; cursor: pointer;}
-input[type='submit']:hover {background: #1EBA6B; color: #fff;}
+input[type='submit'] {
+    padding: 12px 0;
+    font-size: 16px;
+    border: none;
+    background: #45C491;
+    color: #fff;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .2), 0 1px 0 0 rgba(255, 255, 255, .2) inset;
+    -moz-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .2), 0 1px 0 0 rgba(255, 255, 255, .2) inset;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .2), 0 1px 0 0 rgba(255, 255, 255, .2) inset;
+    cursor: pointer;
+}
+input[type='submit']:hover {background: #36ae7e; color: #fff;}
 
 
 
@@ -227,9 +235,6 @@ a.reverseCall {
 }
 
 
-
-
-
 /* -------------------
 *  RESPOSIVE ELEMENTS
 *  ------------------- */
@@ -241,10 +246,6 @@ a.reverseCall {
 	nav .container .logo {margin-bottom: 20px; text-align: center;}
 
 	.orange p {width: 400px;}
-
-	form, label, input  {width: 400px;}
-	input[type="submit"] {width: 402px;}
-	textarea {width: 380px;}
 
 	.container .one-third.column, .container .eight.columns, .container .four.columns {margin-bottom: 40px;}
 }
@@ -262,13 +263,12 @@ a.reverseCall {
 
 	.orange p {width: 200px;}
 
-
-
-	form, label, input  {width: 300px;}
-	input[type="submit"] {width: 302px;}
-	textarea {width: 280px;}
-
 	.container .one-third.column, .container .eight.columns, .container .four.columns {margin-bottom: 40px;}
+}
 
-
+.orderFormLabel {
+    float: left;
+    width: 135px;
+    text-transform: none;
+    text-align: center;
 }
