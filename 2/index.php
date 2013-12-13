@@ -8,6 +8,10 @@
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Pontano+Sans' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Exo+2&subset=cyrillic,latin' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&subset=cyrillic,latin' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Marck+Script&subset=cyrillic,latin' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Poiret+One&subset=cyrillic,latin' rel='stylesheet' type='text/css'>
     <!-- end google fonts -->
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
     <!--nav-->
@@ -33,44 +37,17 @@
     </script>
 </head>
 <body>
+
+<?php $mainPage = 'index.php'?>
+
 <div class="wrap">
     <div class="wrapper">
-        <!-- start header-->
-        <div class="header">
-            <div class="logo">
-                <a href="index-2.html"><img src="images/logo.png" alt=""></a>
-            </div>
-            <div class="cssmenu">
-                <ul>
-                    <li class="active"><a href="index-2.html">Home</a></li>
-                    <li><a href="portfolio.html">Portfolio</a></li>
-                    <li><a href="blog.html">Blog</a></li>
-                    <li><a href="about.html">About</a></li>
-                    <li><a href="contact.html">Contact</a></li>
-                    <div class="clear"></div>
-                </ul>
-            </div>
-            <div class="clear"></div>
-            <div class="top-nav">
-                <nav class="clearfix">
-                    <ul>
-                        <li><a href="index-2.html">Home</a></li>
-                        <li><a href="portfolio.html">Portfolio</a></li>
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="contact.html">Contact</a></li>
-                    </ul>
-                    <a href="#" id="pull">Menu</a>
-                </nav>
-            </div>
-        </div>
+        <?php include "header.html";?>
         <!-- start banner -->
         <div class="banner">
             <img src="images/banner.png" alt=""/>
-
-            <h2>Looking for rockstar graphic designers?</h2>
-
-            <h3>Look no further...we are here to help!</h3>
+            <h2>Ищите креативную студию дизайна?</h2>
+            <h3>Больше не надо искать...мы здесь, чтобы помочь!</h3>
         </div>
         <!-- start content -->
         <div class="main">
@@ -158,98 +135,8 @@
         </div>
     </div>
 </div>
-<!-- start foorter -->
-<div class="footer_bg">
-    <div class="wrap">
-        <div class="wrapper">
-            <div class="footer">
-                <div class="span_1_of_3">
-                    <h3>Contact Us</h3>
 
-                    <div class="footer_grid">
-                        <div class="foot_img">
-                            <img src="images/home.png" alt=""/>
-                        </div>
-                        <div class="foot_text">
-                            <p>500 Lorem Ipsum Dolor Sit,</p>
+<?php include "footer.html";?>
 
-                            <p>22-56-2-9 Sit Amet, Lorem,</p>
-
-                            <p>USA</p>
-                        </div>
-                        <div class="clear"></div>
-                    </div>
-                    <div class="footer_grid">
-                        <div class="foot_img">
-                            <img src="images/call.png" alt=""/>
-                        </div>
-                        <div class="foot_text">
-                            <p>(416) 431-4437</p>
-                        </div>
-                        <div class="clear"></div>
-                    </div>
-                    <a href="#"><h4 class="mail">info(at)mycompany.com</h4></a>
-
-                    <div class="foot_nav">
-                        <ul>
-                            <li><a href="#"><img src="images/soc_icon1.png" alt=""/></a></li>
-                            <li><a href="#"><img src="images/soc_icon2.png" alt=""/></a></li>
-                            <li><a href="#"><img src="images/soc_icon3.png" alt=""/></a></li>
-                            <li><a href="#"><img src="images/soc_icon4.png" alt=""/></a></li>
-                            <div class="clear"></div>
-                        </ul>
-
-                    </div>
-                </div>
-                <div class="span_1_of_3">
-                    <h3>Latest Tweets</h3>
-
-                    <div class="footer_grid">
-                        <div class="foot_img">
-                            <img src="images/twitter.png" alt=""/>
-                        </div>
-                        <div class="foot_text">
-                            <p>Confucius: Lorem Ipsum is simply dummy text of the printing.<br/>
-                                <b>#famousquotes</b></p>
-                            <h4>8 days ago</h4>
-                        </div>
-                        <div class="clear"></div>
-                    </div>
-                    <div class="footer_grid">
-                        <div class="foot_img">
-                            <img src="images/twitter.png" alt=""/>
-                        </div>
-                        <div class="foot_text">
-                            <p>Bruce Lee: Lorem Ipsum is simply dummy text of the printing.<br/>
-                                <b>#famousquotes</b></p>
-                            <h4>1 hour ago</h4>
-                        </div>
-                        <div class="clear"></div>
-                    </div>
-                </div>
-                <div class="span_1_of_3">
-                    <h3>Latest Posts</h3>
-                    <a href="#"><h5 class="fountain">Starting a new journey today</h5></a>
-                    <a href="#"><h5 class="fountain">The life of a web designer</h5></a>
-                    <a href="#"><h5 class="fountain">Your guide to navigating Around to wordoress</h5></a>
-                    <a href="#"><h5 class="fountain">introduction to HTML5 and CSS3</h5></a>
-                    <a href="#"><h5 class="fountain">The life of a web designer</h5></a>
-                </div>
-                <div class="clear"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- start footer copy -->
-<div class="wrap">
-    <div class="wrapper">
-        <div class="copy">
-            <p class="w3-link">Copyright © 2012 Designer First. All Rights Reserved. Template by&nbsp; <a
-                    href="http://w3layouts.com/"> W3Layouts</a></p>
-        </div>
-    </div>
-</div>
 </body>
-
-<!-- Mirrored from w3layouts.com/demos/minima/web/ by HTTrack Website Copier/3.x [XR&CO'2013], Thu, 12 Dec 2013 15:20:17 GMT -->
 </html>

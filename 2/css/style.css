@@ -37,6 +37,36 @@ a {
     text-decoration: none;
 }
 
+@font-face {
+    font-family: "Cyntho Pro Regular";
+    src: url(../fonts/Cyntho_Pro_Regular.otf);
+}
+
+@font-face {
+    font-family: "Cyntho Pro Italic";
+    src: url(../fonts/Cyntho_Pro_Italic.otf);
+}
+
+@font-face {
+    font-family: "Xiomara-Script";
+    src: url(../fonts/Xiomara-Script.ttf);
+}
+
+@font-face {
+    font-family: "Beer-Money";
+    src: url(../fonts/beer-money.ttf);
+}
+
+@font-face {
+    font-family: "Rom_Ftl_2";
+    src: url(../fonts/Rom_Ftl_2.ttf);
+}
+
+@font-face {
+    font-family: "Romance_Fatal_Juan_Casco_W1G";
+    src: url(../fonts/Romance_Fatal_Juan_Casco_W1G.ttf);
+}
+
 .txt-rt {
     text-align: right;
 }
@@ -266,15 +296,18 @@ body {
 }
 
 .banner h2 {
-    font-family: 'Pontano Sans', sans-serif;
+    font-family: 'Cyntho Pro Regular', sans-serif;
     line-height: 1.5em;
+    /*letter-spacing: 0em;
+    word-spacing: -0.15em;
+    text-indent: 1.25em;*/
     font-size: 3em;
     color: #666666;
     text-shadow: 0px 1px 0px #ffffff;
 }
 
 .banner h3 {
-    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Exo 2', cursive;
     line-height: 1.8em;
     font-size: 2em;
     color: #FF61A0;
