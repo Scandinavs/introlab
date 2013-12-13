@@ -12,6 +12,7 @@
     <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&subset=cyrillic,latin' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Marck+Script&subset=cyrillic,latin' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Poiret+One&subset=cyrillic,latin' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Electrolize&subset=cyrillic,latin' rel='stylesheet' type='text/css'>
     <!-- end google fonts -->
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
     <!--nav-->
@@ -52,7 +53,7 @@
         <!-- start content -->
         <div class="main">
             <div class="content">
-                <h2>latest projects</h2>
+                <h2>недавние проекты</h2>
             </div>
             <div class="grids_of_4">
                 <div class="grid_1_of_4 images_1_of_4">
