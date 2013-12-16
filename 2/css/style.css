@@ -459,6 +459,7 @@ body {
 .icon {
     float: left;
     padding-top: 7px;
+    padding-right: 10px;
     color: #777777;
 }
 

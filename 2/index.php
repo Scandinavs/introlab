@@ -89,21 +89,21 @@
             </div>
             <div class="grids_of_3">
                 <div class="grid_1_of_3 images_1_of_3">
-                    <i class="fa fa-usd icon"></i><h3>&nbsp;Низкие цены</h3>
+                    <i class="fa fa-usd icon"></i><h3>Низкие цены</h3>
 
                     <p>Наши сотрудники работают удалённо, поэтому издержки на содержание офиса не включаются в стоимость работы.
                        Это позволяет экономить Ваши деньги!
                     </p>
                 </div>
                 <div class="grid_1_of_3 images_1_of_3">
-                    <i class="fa fa-clock-o icon"></i><h3><h3>&nbsp;Выполнение работ строго в сроки</h3>
+                    <i class="fa fa-clock-o icon"></i><h3><h3>Выполнение работ строго в сроки</h3>
 
                     <p>За счёт привлечения высококлассных специалистов по всему миру наша компания выполняет поставленные
                         задачи быстро и в сроки.
                     </p>
                 </div>
                 <div class="grid_1_of_3 images_1_of_3">
-                    <i class="fa fa-flask icon"></i><h3>&nbsp;Современные технологии и приемы</h3>
+                    <i class="fa fa-flask icon"></i><h3>Современные технологии и приемы</h3>
 
                     <p>Наша компания использует новейшие дизайнерские и технические решения,
                         которые позволят сделать Вашу презентацию или рекламу зрелищной и запоминающейся.
@@ -115,23 +115,23 @@
                 <div class="grid_1_of_3 images_1_of_3">
                     <h3 class="user_icon">Эксклюзивный дизайн</h3>
 
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                        suffered <span> alteration </span> in some form, by injected humour, or randomised words
-                        which don't look even slightly.</p>
+                    <p>Мы разрабатываем уникальные дизайнерские и видео решения на основе лучших мировых практик и
+                        многолетнего опыта наших специалистов.
+                    </p>
                 </div>
                 <div class="grid_1_of_3 images_1_of_3">
                     <h3 class="gallery_icon">Индивидуальный подход</h3>
 
-                    <p>Our website design and development provides quality web solutions which are talored to your
-                        needs. These can range from simple <span> CSS </span> and <span>HTML</span> sites to bespoke
-                        CMS and E-Commerce Sites. </p>
+                    <p>Для каждого клиента разрабатывается индивидуальный проект, учитывая пожелания клиента,
+                        возможно предоставление прототипов дизайна.
+                    </p>
                 </div>
                 <div class="grid_1_of_3 images_1_of_3">
                     <h3 class="cog_icon">Бесплатный расчёт стоимости</h3>
 
-                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have
-                        suffered alteration in some form, by injected humour, or <span>randomised </span> words
-                        which don't look even slightly.</p>
+                    <p>Работая с нашей компанией Вы всегда можете абсолютно бесплатно получить консультацию по
+                        интересующим вопросам и заказать расчет проекта абсолютно бесплатно.
+                    </p>
                 </div>
                 <div class="clear"></div>
             </div>
