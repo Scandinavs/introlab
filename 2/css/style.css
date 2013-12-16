@@ -463,6 +463,14 @@ body {
     color: #777777;
 }
 
+.foot_text i.icon {
+    color: #FFFFFF;
+}
+
+.span_1_of_3 a h4 i.icon {
+    color: #FFFFFF;
+}
+
 /* start footer */
 .footer_bg {
     font-family: 'Open Sans', sans-serif;
@@ -485,7 +493,7 @@ body {
 
 .span_1_of_3 h3 {
     font-family: trebuchet ms, arial, sans-serif;
-    font-size: 1.2em;
+    font-size: 1.5em;
     color: #FF61A0;
     text-transform: uppercase;
     text-shadow: 0px 1px 0px rgb(14, 14, 14);
@@ -503,6 +511,7 @@ body {
 }
 
 .foot_text {
+    font-size: 1.5em;
     float: left;
     width: 89.33333%;
 }
@@ -535,7 +544,7 @@ body {
 .span_1_of_3 a h4 {
     margin-top: 4%;
     text-transform: lowercase;
-    font-size: 1em;
+    font-size: 1.5em;
     color: #ffffff;
     -webkit-transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
