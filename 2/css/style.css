@@ -67,6 +67,11 @@ a {
     src: url(../fonts/Romance_Fatal_Juan_Casco_W1G.ttf);
 }
 
+@font-face {
+    font-family: "Grishenko";
+    src: url(../fonts/grishenko_novoye_nbp.ttf);
+}
+
 .txt-rt {
     text-align: right;
 }
@@ -432,11 +437,11 @@ body {
 }
 
 .images_1_of_3 h3 {
+    font-family: 'Exo 2', cursive;
     line-height: 1.5em;
     font-size: 1.2em;
     color: #666666;
     -webkit-text-stroke: 0.2px;
-    font-family: 'Open Sans', sans-serif;
 }
 
 .images_1_of_3 p {
@@ -449,6 +454,12 @@ body {
 
 .images_1_of_3 p span {
     text-transform: uppercase;
+}
+
+.icon {
+    float: left;
+    padding-top: 7px;
+    color: #777777;
 }
 
 /* start footer */
