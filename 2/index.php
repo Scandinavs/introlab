@@ -42,10 +42,11 @@
 <body>
 
 <?php $mainPage = 'index.php'?>
+<?php $activeMenu = '1'?>
 
 <div class="wrap">
     <div class="wrapper">
-        <?php include "header.html";?>
+        <?php include "header.php";?>
         <!-- start banner -->
         <div class="banner">
             <img src="images/banner.png" alt=""/>
