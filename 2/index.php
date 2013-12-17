@@ -60,27 +60,27 @@
             </div>
             <div class="grids_of_4">
                 <div class="grid_1_of_4 images_1_of_4">
-                    <a href="#"><img src="images/pic1.jpg" title="Project1" alt=""/></a>
-
-                    <h3><a href="#">PIX web design</a></h3>
-                    <h4><a href="#">Graphics Design</a></h4>
-                </div>
-                <div class="grid_1_of_4 images_1_of_4">
-                    <a href="#"><img src="images/pic2.jpg" title="Project2" alt=""/></a>
-
-                    <h3><a href="#">Plugin Planet-WordPress</a></h3>
-                    <h4><a href="#">print Design</a></h4>
-                </div>
-                <div class="grid_1_of_4 images_1_of_4">
-                    <a href="#"><img src="images/pic3.jpg" title="Project3" alt=""/></a>
-
-                    <h3><a href="#">Free Application</a></h3>
+                    <a href="#"><img src="images/bb_express.jpg" title="BB Express" alt="BB Express" /></a>
+                    <h3><a href="#">BB Express</a></h3>
+                    <p class="para">Рекламный ролик компании BB Express</p>
                     <h4><a href="#">WordPress Theme</a></h4>
                 </div>
                 <div class="grid_1_of_4 images_1_of_4">
-                    <a href="#"><img src="images/pic4.jpg" title="Project4" alt=""/></a>
-
-                    <h3><a href="#">iPhone Mail App</a></h3>
+                    <a href="#"><img src="images/oppo_finder.jpg" title="Oppo Finder" alt="Oppo Finder" /></a>
+                    <h3><a href="#">Oppo Finder</a></h3>
+                    <p class="para">Промо-ролик смартфона Oppo Finder</p>
+                    <h4><a href="#">Graphics Design</h4></a>
+                </div>
+                <div class="grid_1_of_4 images_1_of_4">
+                    <a href="#"><img src="images/ast_telecom.jpg" title="AST Telecom" alt="AST Telecom" /></a>
+                    <h3><a href="#">AST Telecom</a></h3>
+                    <p class="para">Рекламный ролик компании AST Telecom</p>
+                    <h4><a href="#">Branding</a></h4>
+                </div>
+                <div class="grid_1_of_4 images_1_of_4">
+                    <a href="#"><img src="images/predprinimatel46.jpg" title="Predprinimatel46.ru" alt="Predprinimatel46.ru" /></a>
+                    <h3><a href="#">Predprinimatel46.ru</a></h3>
+                    <p class="para">Рекламный ролик проекта для предпринимателей Predprinimatel46.ru</p>
                     <h4><a href="#">Branding</a></h4>
                 </div>
                 <div class="clear"></div>
