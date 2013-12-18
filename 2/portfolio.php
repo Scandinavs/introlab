@@ -54,33 +54,29 @@
 	 	 </div>
 	 	 <div class="grids_of_4">
 				<div class="grid_1_of_4 images_1_of_4">
-					 <a href="#"><img src="http://b.vimeocdn.com/ts/455/267/455267607_640.jpg" title="Startium" alt="Startium" /></a>
-                    <!--<iframe src="//player.vimeo.com/video/79551585?title=0&amp;byline=0&amp;portrait=0&amp;color=fa7369"
-                            width="350" height="197" frameborder="0" webkitallowfullscreen mozallowfullscreen
-                            allowfullscreen></iframe>-->
-					 <h3><a href="#">Startium</a></h3>
+					 <a href="item_details.php?item=startium">
+                         <img src="http://b.vimeocdn.com/ts/455/267/455267607_640.jpg" title="Startium" alt="Startium" />
+                     </a>
+					 <h3><a href="item_details.php?item=startium">Startium</a></h3>
 					 <p class="para">Промо-видео для русской компании-стартапа Startium</p>
 					 <h4><a href="#">Graphics Design</h4></a>
 				</div>
 				<div class="grid_1_of_4 images_1_of_4">
-					 <a href="#"><img src="http://b.vimeocdn.com/ts/447/306/447306019_640.jpg" title="Pinit logo" alt="Pinit logo" /></a>
-                    <!--<iframe src="//player.vimeo.com/video/73262156?title=0&amp;byline=0&amp;portrait=0&amp;color=edff24"
-                            width="350" height="197" frameborder="0" webkitallowfullscreen mozallowfullscreen
-                            allowfullscreen></iframe>-->
-					 <h3><a href="#">Pinit</a></h3>
+					 <a href="item_details.php?item=pinit"><img src="http://b.vimeocdn.com/ts/447/306/447306019_640.jpg" title="Pinit logo" alt="Pinit logo" /></a>
+					 <h3><a href="item_details.php?item=pinit">Pinit</a></h3>
 					 <p class="para">Анимированный логотип компании Pinit</p>
 					 <h4><a href="#">print Design</a></h4>
 				</div>
 				<div class="grid_1_of_4 images_1_of_4">
-					 <a href="#"><img src="images/Rutuner.jpg" title="RuTuner" alt="RuTuner" /></a>
+					 <a href="item_details.php?item=rutuner"><img src="images/Rutuner.jpg" title="RuTuner" alt="RuTuner" /></a>
 <!--                    <a href="#"><img src="http://b.vimeocdn.com/ts/448/867/448867404_640.jpg" title="RuTuner" alt="RuTuner" /></a>-->
-					 <h3><a href="#">RuTuner</a></h3>
+					 <h3><a href="item_details.php?item=rutuner">RuTuner</a></h3>
 					 <p class="para">Промо-ролик компании RuTuner.fm</p>
 					 <h4><a href="#">WordPress Theme</a></h4>
 				</div>
 				<div class="grid_1_of_4 images_1_of_4">
-					 <a href="#"><img src="http://b.vimeocdn.com/ts/435/156/435156599_640.jpg" title="Интро телешоу" alt="Интро телешоу" /></a>
-					 <h3><a href="#">Интро телешоу</a></h3>
+					 <a href="item_details.php?item=tvintro"><img src="http://b.vimeocdn.com/ts/435/156/435156599_640.jpg" title="Интро телешоу" alt="Интро телешоу" /></a>
+					 <h3><a href="item_details.php?item=tvintro">Интро телешоу</a></h3>
 					 <p class="para">Интро-видео телевизионного шоу на "Первом канале"</p>
 					 <h4><a href="#">Branding</a></h4>
 				</div>
@@ -88,26 +84,26 @@
 			</div>
          <div class="grids_of_4">
              <div class="grid_1_of_4 images_1_of_4">
-                 <a href="#"><img src="images/oppo_finder.jpg" title="Oppo Finder" alt="Oppo Finder" /></a>
-                 <h3><a href="#">Oppo Finder</a></h3>
+                 <a href="item_details.php?item=oppofinder"><img src="images/oppo_finder.jpg" title="Oppo Finder" alt="Oppo Finder" /></a>
+                 <h3><a href="item_details.php?item=oppofinder">Oppo Finder</a></h3>
                  <p class="para">Промо-ролик смартфона Oppo Finder</p>
                  <h4><a href="#">Graphics Design</h4></a>
              </div>
              <div class="grid_1_of_4 images_1_of_4">
-                 <a href="#"><img src="images/ast_telecom.jpg" title="AST Telecom" alt="AST Telecom" /></a>
-                 <h3><a href="#">AST Telecom</a></h3>
+                 <a href="item_details.php?item=asttelecom"><img src="images/ast_telecom.jpg" title="AST Telecom" alt="AST Telecom" /></a>
+                 <h3><a href="item_details.php?item=asttelecom">AST Telecom</a></h3>
                  <p class="para">Рекламный ролик компании AST Telecom</p>
                  <h4><a href="#">Branding</a></h4>
              </div>
              <div class="grid_1_of_4 images_1_of_4">
-                 <a href="#"><img src="images/bb_express.jpg" title="BB Express" alt="BB Express" /></a>
-                 <h3><a href="#">BB Express</a></h3>
+                 <a href="item_details.php?item=bbexpress"><img src="images/bb_express.jpg" title="BB Express" alt="BB Express" /></a>
+                 <h3><a href="item_details.php?item=bbexpress">BB Express</a></h3>
                  <p class="para">Рекламный ролик компании BB Express</p>
                  <h4><a href="#">WordPress Theme</a></h4>
              </div>
              <div class="grid_1_of_4 images_1_of_4">
-                 <a href="#"><img src="images/predprinimatel46.jpg" title="Predprinimatel46.ru" alt="Predprinimatel46.ru" /></a>
-                 <h3><a href="#">Predprinimatel46.ru</a></h3>
+                 <a href="item_details.php?item=predprinimatel46"><img src="images/predprinimatel46.jpg" title="Predprinimatel46.ru" alt="Predprinimatel46.ru" /></a>
+                 <h3><a href="item_details.php?item=predprinimatel46">Predprinimatel46.ru</a></h3>
                  <p class="para">Рекламный ролик проекта для предпринимателей Predprinimatel46.ru</p>
                  <h4><a href="#">Branding</a></h4>
              </div>
@@ -115,39 +111,30 @@
          </div>
 	 	 <div class="grids_of_4">
              <div class="grid_1_of_4 images_1_of_4">
-                 <a href="#">
+                 <a href="item_details.php?item=poster">
                          <img src="images/poster_small.jpg"
                                   title="Концертный постер"
                                   alt="Концертный постер"/>
                  </a>
-                 <h3><a href="#">Концертный постер</a></h3>
+                 <h3><a href="item_details.php?item=poster">Концертный постер</a></h3>
                  <p class="para">Концертный постер для музыкальной группы "Yellow Help"</p>
                  <h4><a href="#">Branding</a></h4>
              </div>
 				<div class="grid_1_of_4 images_1_of_4">
-					 <a href="#"><img src="http://b.vimeocdn.com/ts/422/935/422935789_640.jpg" title="Графика для телепередачи" alt="Графика для телепередачи" /></a>
-					 <h3><a href="#">Графика для телепередачи</a></h3>
+					 <a href="item_details.php?item=tvshow"><img src="http://b.vimeocdn.com/ts/422/935/422935789_640.jpg" title="Графика для телепередачи" alt="Графика для телепередачи" /></a>
+					 <h3><a href="item_details.php?item=tvshow">Графика для телепередачи</a></h3>
 					 <p class="para">Часть графики для телевизионной передачи</p>
 					 <h4><a href="#">Graphics Design</h4></a>
 				</div>
 				<div class="grid_1_of_4 images_1_of_4">
-					 <a href="#"><img src="images/auto24_promo_video.jpg" title="Телеканал Авто24" alt="Телеканал Авто24" /></a>
-					 <h3><a href="#">Телеканал Авто24</a></h3>
+					 <a href="item_details.php?item=avto24"><img src="images/auto24_promo_video.jpg" title="Телеканал Авто24" alt="Телеканал Авто24" /></a>
+					 <h3><a href="item_details.php?item=avto24">Телеканал Авто24</a></h3>
 					 <p class="para">Промо-видео для телеканала Авто24</p>
 					 <h4><a href="#">print Design</a></h4>
 				</div>
 				<div class="grid_1_of_4 images_1_of_4">
-                    <!--<object width="480" height="360">
-                        <param name="movie"
-                               value="//www.youtube.com/v/VoF2E43tAOM?version=3&amp;hl=en_US&amp;rel=0"></param>
-                        <param name="allowFullScreen" value="true"></param>
-                        <param name="allowscriptaccess" value="always"></param>
-                        <embed src="//www.youtube.com/v/VoF2E43tAOM?version=3&amp;hl=en_US&amp;rel=0"
-                               type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always"
-                               allowfullscreen="true"></embed>
-                    </object>-->
-					 <a href="#"><img src="images/buckler_hedge.jpg" title="Project7" alt="" /></a>
-					 <h3><a href="#">Buckler Hedge</a></h3>
+					 <a href="item_details.php?item=bucklerhedge"><img src="images/buckler_hedge.jpg" title="Project7" alt="" /></a>
+					 <h3><a href="item_details.php?item=bucklerhedge">Buckler Hedge</a></h3>
 					 <p class="para">Рекламный ролик компании Buckler Hedge</p>
 					 <h4><a href="#">WordPress Theme</a></h4>
 				</div>
@@ -155,8 +142,8 @@
 			</div>
          <div class="grids_of_4">
              <div class="grid_1_of_4 images_1_of_4">
-                 <a href="#"><img src="images/stroilandiya_small.jpg" title="Stroilandiya" alt="Stroilandiya" /></a>
-                 <h3><a href="#">Stroilandiya</a></h3>
+                 <a href="item_details.php?item=stroilandiya"><img src="images/stroilandiya_small.jpg" title="Stroilandiya" alt="Stroilandiya" /></a>
+                 <h3><a href="item_details.php?item=stroilandiya">Stroilandiya</a></h3>
                  <p class="para">Рекламный ролик компании Stroilandiya</p>
                  <h4><a href="#">Graphics Design</h4></a>
              </div>

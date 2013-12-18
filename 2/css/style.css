@@ -648,6 +648,11 @@ p.para {
     font-family: 'Open Sans', sans-serif;
 }
 
+.item {
+    text-align: center;
+    padding-top: 20px;
+}
+
 /* start about */
 .about_img {
     float: left;
