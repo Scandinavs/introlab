@@ -86,6 +86,33 @@
 				</div>
 				<div class="clear"></div>
 			</div>
+         <div class="grids_of_4">
+             <div class="grid_1_of_4 images_1_of_4">
+                 <a href="#"><img src="images/oppo_finder.jpg" title="Oppo Finder" alt="Oppo Finder" /></a>
+                 <h3><a href="#">Oppo Finder</a></h3>
+                 <p class="para">Промо-ролик смартфона Oppo Finder</p>
+                 <h4><a href="#">Graphics Design</h4></a>
+             </div>
+             <div class="grid_1_of_4 images_1_of_4">
+                 <a href="#"><img src="images/ast_telecom.jpg" title="AST Telecom" alt="AST Telecom" /></a>
+                 <h3><a href="#">AST Telecom</a></h3>
+                 <p class="para">Рекламный ролик компании AST Telecom</p>
+                 <h4><a href="#">Branding</a></h4>
+             </div>
+             <div class="grid_1_of_4 images_1_of_4">
+                 <a href="#"><img src="images/bb_express.jpg" title="BB Express" alt="BB Express" /></a>
+                 <h3><a href="#">BB Express</a></h3>
+                 <p class="para">Рекламный ролик компании BB Express</p>
+                 <h4><a href="#">WordPress Theme</a></h4>
+             </div>
+             <div class="grid_1_of_4 images_1_of_4">
+                 <a href="#"><img src="images/predprinimatel46.jpg" title="Predprinimatel46.ru" alt="Predprinimatel46.ru" /></a>
+                 <h3><a href="#">Predprinimatel46.ru</a></h3>
+                 <p class="para">Рекламный ролик проекта для предпринимателей Predprinimatel46.ru</p>
+                 <h4><a href="#">Branding</a></h4>
+             </div>
+             <div class="clear"></div>
+         </div>
 	 	 <div class="grids_of_4">
              <div class="grid_1_of_4 images_1_of_4">
                  <a href="#">
@@ -131,34 +158,6 @@
                  <a href="#"><img src="images/stroilandiya_small.jpg" title="Stroilandiya" alt="Stroilandiya" /></a>
                  <h3><a href="#">Stroilandiya</a></h3>
                  <p class="para">Рекламный ролик компании Stroilandiya</p>
-                 <h4><a href="#">Graphics Design</h4></a>
-             </div>
-             <div class="grid_1_of_4 images_1_of_4">
-                 <a href="#"><img src="images/ast_telecom.jpg" title="AST Telecom" alt="AST Telecom" /></a>
-                 <h3><a href="#">AST Telecom</a></h3>
-                 <p class="para">Рекламный ролик компании AST Telecom</p>
-                 <h4><a href="#">Branding</a></h4>
-             </div>
-             <div class="grid_1_of_4 images_1_of_4">
-                 <a href="#"><img src="images/bb_express.jpg" title="BB Express" alt="BB Express" /></a>
-                 <h3><a href="#">BB Express</a></h3>
-                 <p class="para">Рекламный ролик компании BB Express</p>
-                 <h4><a href="#">WordPress Theme</a></h4>
-             </div>
-             <div class="grid_1_of_4 images_1_of_4">
-                 <a href="#"><img src="images/predprinimatel46.jpg" title="Predprinimatel46.ru" alt="Predprinimatel46.ru" /></a>
-                 <h3><a href="#">Predprinimatel46.ru</a></h3>
-                 <p class="para">Рекламный ролик проекта для предпринимателей Predprinimatel46.ru</p>
-                 <h4><a href="#">Branding</a></h4>
-             </div>
-             <div class="clear"></div>
-         </div>
-
-         <div class="grids_of_4">
-             <div class="grid_1_of_4 images_1_of_4">
-                 <a href="#"><img src="images/oppo_finder.jpg" title="Oppo Finder" alt="Oppo Finder" /></a>
-                 <h3><a href="#">Oppo Finder</a></h3>
-                 <p class="para">Промо-ролик смартфона Oppo Finder</p>
                  <h4><a href="#">Graphics Design</h4></a>
              </div>
              <div class="clear"></div>
