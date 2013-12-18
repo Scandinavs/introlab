@@ -44,6 +44,7 @@
 <?php $mainPage = 'index.php'?>
 <?php $activeMenu = '2'?>
 
+<div class="wrap">
 <div class="wrapper">
 	<!-- start header-->
     <?php include "header.php";?>
