@@ -60,28 +60,28 @@
             </div>
             <div class="grids_of_4">
                 <div class="grid_1_of_4 images_1_of_4">
-                    <a href="#"><img src="images/bb_express.jpg" title="BB Express" alt="BB Express" /></a>
-                    <h3><a href="#">BB Express</a></h3>
+                    <a href="item_details.php?item=bbexpress"><img src="images/bb_express.jpg" title="BB Express" alt="BB Express" /></a>
+                    <h3><a href="item_details.php?item=bbexpress">BB Express</a></h3>
                     <p class="para">Рекламный ролик компании BB Express</p>
-                    <h4><a href="#">WordPress Theme</a></h4>
+                    <h4><a href="portfolio.php">Рекламный ролик</a></h4>
                 </div>
                 <div class="grid_1_of_4 images_1_of_4">
-                    <a href="#"><img src="images/oppo_finder.jpg" title="Oppo Finder" alt="Oppo Finder" /></a>
-                    <h3><a href="#">Oppo Finder</a></h3>
+                    <a href="item_details.php?item=oppofinder"><img src="images/oppo_finder.jpg" title="Oppo Finder" alt="Oppo Finder" /></a>
+                    <h3><a href="item_details.php?item=oppofinder">Oppo Finder</a></h3>
                     <p class="para">Промо-ролик смартфона Oppo Finder</p>
-                    <h4><a href="#">Graphics Design</h4></a>
+                    <h4><a href="portfolio.php">Промо-ролик</h4></a>
                 </div>
                 <div class="grid_1_of_4 images_1_of_4">
-                    <a href="#"><img src="images/ast_telecom.jpg" title="AST Telecom" alt="AST Telecom" /></a>
-                    <h3><a href="#">AST Telecom</a></h3>
+                    <a href="item_details.php?item=asttelecom"><img src="images/ast_telecom.jpg" title="AST Telecom" alt="AST Telecom" /></a>
+                    <h3><a href="item_details.php?item=asttelecom">AST Telecom</a></h3>
                     <p class="para">Рекламный ролик компании AST Telecom</p>
-                    <h4><a href="#">Branding</a></h4>
+                    <h4><a href="portfolio.php">Рекламный ролик</a></h4>
                 </div>
                 <div class="grid_1_of_4 images_1_of_4">
-                    <a href="#"><img src="images/predprinimatel46.jpg" title="Predprinimatel46.ru" alt="Predprinimatel46.ru" /></a>
-                    <h3><a href="#">Predprinimatel46.ru</a></h3>
+                    <a href="item_details.php?item=predprinimatel46"><img src="images/predprinimatel46.jpg" title="Predprinimatel46.ru" alt="Predprinimatel46.ru" /></a>
+                    <h3><a href="item_details.php?item=predprinimatel46">Predprinimatel46.ru</a></h3>
                     <p class="para">Рекламный ролик проекта для предпринимателей Predprinimatel46.ru</p>
-                    <h4><a href="#">Branding</a></h4>
+                    <h4><a href="portfolio.php">Рекламный ролик</a></h4>
                 </div>
                 <div class="clear"></div>
             </div>
