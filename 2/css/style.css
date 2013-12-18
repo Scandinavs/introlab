@@ -837,6 +837,18 @@ form {
     background: #EC5792;
 }
 
+.success-msg {
+    float: left;
+    font-size: 1.5em;
+    background: #ceee4f;
+}
+
+.failure-msg {
+    float: left;
+    font-size: 1.5em;
+    background: #ff8976;
+}
+
 /***** Media Quries *****/
 @media only screen and (max-width: 1280px) {
     .wrap {

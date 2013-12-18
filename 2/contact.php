@@ -56,7 +56,7 @@
                 <div class="content">
                     <h2>Свяжитесь с нами</h2>
                 </div>
-                <form method="post" action="">
+                <form method="post" action="sendmessage.php">
                     <div>
                         <span><label>ИМЯ</label></span>
                         <span><input name="userName" type="text" class="textbox"></span>
