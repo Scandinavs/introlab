@@ -4,6 +4,7 @@
     <title>IntroLab | Video & Infographics</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="google-site-verification" content="bciq8ChusHRz5ydfx7RHvMzNoXZdaUy9vW-TbmHI0vw" />
     <!-- google fonts -->
     <link rel="stylesheet" href="css/font-awesome-4.0.3/css/font-awesome.css">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
