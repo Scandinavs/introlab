@@ -47,7 +47,7 @@
 <body>
 
 <?php $mainPage = 'index.php' ?>
-<?php $activeMenu = '5' ?>
+<?php $activeMenu = '3' ?>
 
 <div class="wrap">
     <div class="wrapper">
