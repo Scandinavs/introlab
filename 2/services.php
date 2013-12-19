@@ -56,9 +56,7 @@
 
         <!-- start content -->
         <div class="main1">
-            <div class="success-msg">
-            <span>Ваш запрос успешно отправлен! В ближайшее время с Вами свяжется наш менеджер.</span>
-            </div>
+
             <div class="clear"></div>
         </div>
     </div>

@@ -14,6 +14,7 @@
         <ul>
             <li class="active" id="mainMenu"><a href="<?php echo $mainPage; ?>">Главная</a></li>
             <li id="portfolioMenu"><a href="portfolio.php">Портфолио</a></li>
+            <li id="contactMenu"><a href="services.php">Услуги</a></li>
             <li id="aboutMenu"><a href="about.php">О нас</a></li>
             <li id="contactMenu"><a href="contact.php">Контакты</a></li>
             <div class="clear"></div>

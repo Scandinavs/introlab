@@ -19,6 +19,8 @@
     <link href='http://fonts.googleapis.com/css?family=Electrolize&subset=cyrillic,latin' rel='stylesheet' type='text/css'>
     <!-- end google fonts -->
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all"/>
+    <link rel="icon" type="image/png" href="favicon2.ico">
+
     <!--nav-->
     <script src="js/jquery.min.js"></script>
     <script>
