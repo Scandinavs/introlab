@@ -56,8 +56,47 @@
 
         <!-- start content -->
         <div class="main1">
+            <div class="content">
+                <h2>Список услуг</h2>
+            </div>
 
-            <div class="clear"></div>
+            <div style="margin-top: 2%">
+
+                <p class="para2">Наша компания предоставляет ряд услуг связанных с дизайном видео и инфографики,
+                    презентаций, а также других рекламных материалов.</p>
+
+                <div class="services-list">
+                    <ul class="para2">
+                        <li style="font-size: 1.5em;">Видео-инфографика</li>
+                        <p class="para2" style="padding-left: 20px">Описание</p>
+                        <li style="font-size: 1.5em;">Статическая инфографика</li>
+                        <p class="para2" style="padding-left: 20px">Описание</p>
+                        <li style="font-size: 1.5em;">Вирусная реклама</li>
+                        <p class="para2" style="padding-left: 20px">Описание</p>
+                        <li style="font-size: 1.5em;">Презентации услуг</li>
+                        <p class="para2" style="padding-left: 20px">Описание</p>
+                        <li style="font-size: 1.5em;">Презентации интернет-сервисов</li>
+                        <p class="para2" style="padding-left: 20px">Описание</p>
+                        <li style="font-size: 1.5em;">Презентация отчётов</li>
+                        <p class="para2" style="padding-left: 20px">Описание</p>
+                        <li style="font-size: 1.5em;">Презентация сайта</li>
+                        <p class="para2" style="padding-left: 20px">Описание</p>
+                        <li style="font-size: 1.5em;">Презентация приложения</li>
+                        <p class="para2" style="padding-left: 20px">Описание</p>
+                        <li style="font-size: 1.5em;">ТВ-реклама</li>
+                        <p class="para2" style="padding-left: 20px">Описание</p>
+                        <li style="font-size: 1.5em;">Видео-инструкции</li>
+                        <p class="para2" style="padding-left: 20px">Описание</p>
+                        <li style="font-size: 1.5em;">Анонс мероприятия</li>
+                        <p class="para2" style="padding-left: 20px">Описание</p>
+                        <li style="font-size: 1.5em;">Оформление эфира</li>
+                        <p class="para2" style="padding-left: 20px">Описание</p>
+                        <li style="font-size: 1.5em;">Оформление спецэффектов</li>
+                        <p class="para2" style="padding-left: 20px">Описание</p>
+                    </ul>
+                </div>
+                <div class="clear"></div>
+            </div>
         </div>
     </div>
 </div>

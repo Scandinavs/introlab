@@ -676,6 +676,13 @@ p.para2 {
     font-family: 'Open Sans', sans-serif;
 }
 
+ul.para2 li {
+    font-size: 1em;
+    color: #777777;
+    line-height: 1.8em;
+    font-family: 'Open Sans', sans-serif;
+}
+
 /* start blog */
 .blog_list {
     margin-top: 2%;
